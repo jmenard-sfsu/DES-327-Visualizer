@@ -14,7 +14,6 @@ function handleFile(file) {
 
 function draw() {
   background(0);
-
   fill("pink");
 
   let vol = amplitude.getLevel();
