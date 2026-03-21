@@ -1,3 +1,5 @@
+//github link: https://jmenard-sfsu.github.io/DES-327-Visualizer/
+
 let song;
 let visualColor = ("white"); // Default to white
 let input;
